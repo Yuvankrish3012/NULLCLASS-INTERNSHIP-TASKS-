@@ -1,5 +1,5 @@
 # NULLCLASS-INTERNSHIP-TASKS-
-#Task - 1
+# Task - 1
 Age-Detection-on-UTkFace-dataset
 🧒 Age Prediction from Baby Images
 This project uses deep learning to predict the Age of a person from their image using a pre-trained model. The model takes an image as input and outputs an estimated age in years.
